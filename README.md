@@ -15,9 +15,9 @@ Two hours to pass with a 66% or more score to attempt 22 questions. For the most
 
 [Udemy - Mumshad Mannambeth](https://www.udemy.com/certified-kubernetes-application-developer/)
 
-[CKAD Practice Questions - Liptan Biswas](https://dev.to/liptanbiswas/ckad-practice-questions-4mpn)
+[CKAD Practice Questions - Liptan Biswas](https://dev.to/liptanbiswas/ckad-practice-questions-4mpn) - it has the katacoda practice test links and katacoda is discontinued it
 
-[Katacoda - Many other examples on here. This is the generic k8s link](https://www.katacoda.com/courses/kubernetes)
+[Katacoda - Many other examples on here. This is the generic k8s link](https://www.katacoda.com/courses/kubernetes) - this is discontinued 
 
 ## My Notes
 
